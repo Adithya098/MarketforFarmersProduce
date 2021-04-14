@@ -8,7 +8,6 @@ import 'package:farmers_market/src/widgets/navbar.dart';
 import 'package:farmers_market/src/widgets/orders.dart';
 import 'package:farmers_market/src/widgets/products.dart';
 import 'package:farmers_market/src/widgets/profile.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:farmers_market/src/widgets/vendor_scaffold.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

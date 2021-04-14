@@ -2,7 +2,6 @@ import 'package:farmers_market/src/blocs/auth_bloc.dart';
 import 'package:farmers_market/src/blocs/vendor_bloc.dart';
 import 'package:farmers_market/src/models/vendor.dart';
 import 'package:farmers_market/src/styles/base.dart';
-import 'package:farmers_market/src/styles/colors.dart';
 import 'package:farmers_market/src/styles/text.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
